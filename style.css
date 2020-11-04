@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    width: 100%;
+    overflow-x: hidden;
+}
+
+
+/* logo */
+
+.logo-image {
+    width: 100%;
+}
+
+.logo-image img {
+    width: 80%;
+    height: 150px;
+    object-fit: contain;
+}
+
+
+/* form */
+
+#form {
+    width: 100%;
+}
+
+#form .title {
+    margin-top: 30px;
+}
+
+.title h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #1288d1;
+    /* margin-left: 20px; */
+}
+
+
+/* academic year */
+
+.academic-year {
+    width: 40%;
+    margin-top: 50px;
+}
+
+.academic-year .row {
+    width: 100%;
+}
+
+.label {
+    margin-right: 20px;
+}
+
+.label h5 {
+    color: #1288d1;
+    margin-left: 15px;
+}
+
+.label-form {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.label-form select {
+    height: 33px;
+}
+
+
+/* programs */
+
+.programs {
+    margin: none;
+}
+
+.programs h5 {
+    color: #1288d1;
+}
+
+.programs-content {
+    padding: 5px;
+}
+
+.programs-content h4 {
+    color: #1288d1;
+}
+
+.title-form {
+    margin-left: 20px;
+    color: #1288d1;
+    font-weight: 400;
+}
+
+.form-check-input {
+    height: 22px;
+    width: 22px;
+    color: #1288d1;
+}
+
+.form-check-label {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+
+/* information */
+
+.info p {
+    color: #1288d1;
+    font-size: 20px;
+}
+
+.info p span {
+    font-weight: 500;
+    margin-left: 5px;
+}
+
+
+/*students details */
+
+.student-details {
+    margin-bottom: 25px;
+}
+
+.name h5 {
+    color: #1288d1;
+    font-size: 20px;
+}
+
+
+/* details */
+
+.details {
+    margin-bottom: 25px;
+}
+
+.details .nationality .name h5 {
+    margin-top: 5px;
+}
+
+.details .nationality .form-control {
+    width: 80%;
+}
+
+
+/* date of birth */
+
+.dob {
+    margin-bottom: 25px;
+}
+
+.dob .col-md-4 {
+    margin-right: 10px;
+}
+
+
+/* permanent address */
+
+.permanent-address {
+    margin-bottom: 25px;
+}
+
+.permanent-address .name h5 {
+    margin-right: 5px;
+}
+
+.permanent-address .place {
+    font-size: 20px;
+    color: #1288d1;
+}
+
+
+/* contact-info */
+
+.contact-info {
+    margin-bottom: 25px;
+}
+
+.contact-info .name h5 {
+    margin-top: 2px;
+}
+
+
+/* temporary address */
+
+.temp-address {
+    margin-bottom: 25px;
+}
+
+.temp-address .name h5 {
+    margin-right: 5px;
+}
+
+.temp-address .place {
+    font-size: 20px;
+    color: #1288d1;
+}
+
+
+/* parents details */
+
+.parents-details {
+    margin-bottom: 25px;
+}
+
+.parents-details .det {
+    font-size: 20px;
+    color: #1288d1;
+}
+
+
+/* education details */
+
+.education-details .name {
+    margin-bottom: 25px;
+}
+
+.education-details .row {
+    margin-bottom: 20px;
+}
+
+.education-details .det {
+    font-size: 20px;
+    color: #1288d1;
+}
+
+.education-details .det-input {
+    height: 20px;
+    width: 20px;
+    color: #1288d1;
+}
+
+
+/* general information */
+
+.general-info .name {
+    margin-bottom: 20px;
+}
+
+.general-info .title-form {
+    margin-bottom: 20px;
+}
